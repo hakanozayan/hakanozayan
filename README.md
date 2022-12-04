@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hakanozayan
-- 👀 I’m interested in software
-- 🌱 I’m currently learning c#, java, javascript, sql, pl/sql
+- 👀 I’m interested in software, computer engneering and math
+- 🌱 I’m currently learning c#, java, javascript, sql, pl/sql, kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
